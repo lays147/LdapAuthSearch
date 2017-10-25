@@ -9,7 +9,7 @@ entered when working with this. =D
 
 ### Running
 I tested using Python2. Not sure that works with 3. Probably works...
-Install python-ldap package and then run ```python ldap.py``` a virtualenv environment.
+Install python-ldap package inside of a virtualenv environment, and then run ```python ldap.py``` 
 Make sure that you have an AD server up and running and the setup for your authentication and search
 is made inside the python file.
 
